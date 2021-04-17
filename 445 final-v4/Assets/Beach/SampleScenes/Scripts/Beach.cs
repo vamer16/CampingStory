@@ -13,7 +13,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             //{
             //    LoadScene(2)
             //}
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(4);
         }
     }
 }
